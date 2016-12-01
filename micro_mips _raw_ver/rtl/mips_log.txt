@@ -1,0 +1,2827 @@
+     
+****** NEW ITERATION ******
+Iteration Num           0
+Memory [11]           x
+T1               x
+T2               x
+T3               x
+T4               x
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num           1
+Memory [11]           x
+T1               x
+T2               x
+T3               x
+T4               x
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num           2
+Memory [11]           x
+T1               x
+T2               x
+T3               x
+T4               x
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num           3
+Memory [11]           x
+T1               x
+T2               x
+T3               x
+T4               x
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num           4
+Memory [11]           x
+T1               x
+T2               x
+T3               x
+T4               x
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num           5
+Memory [11]           x
+T1               x
+T2               x
+T3               x
+T4               x
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num           6
+Memory [11]           x
+T1               x
+T2               x
+T3               x
+T4               x
+res is     0
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num           7
+Memory [11]           x
+T1               0
+T2               0
+T3               0
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num           8
+Memory [11]           x
+T1               0
+T2               0
+T3               0
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num           9
+Memory [11]           x
+T1               0
+T2               0
+T3               0
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          10
+Memory [11]           x
+T1               0
+T2               0
+T3               0
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          11
+Memory [11]           x
+T1               0
+T2               0
+T3               0
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          12
+Memory [11]           x
+T1               0
+T2               0
+T3               0
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          13
+Memory [11]           x
+T1              11
+T2               0
+T3               0
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          14
+Memory [11]           x
+T1              11
+T2               0
+T3               0
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          15
+Memory [11]           x
+T1              11
+T2               0
+T3               0
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          16
+Memory [11]           x
+T1              11
+T2               0
+T3               0
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          17
+Memory [11]           x
+T1              11
+T2               0
+T3               0
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          18
+Memory [11]           x
+T1              11
+T2              12
+T3               0
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          19
+Memory [11]           x
+T1              11
+T2              12
+T3               0
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          20
+Memory [11]           x
+T1              11
+T2              12
+T3               0
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          21
+Memory [11]           x
+T1              11
+T2              12
+T3               0
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          22
+Memory [11]           x
+T1              11
+T2              12
+T3               0
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          23
+Memory [11]           x
+T1              11
+T2              12
+T3              15
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          24
+Memory [11]           x
+T1              11
+T2              12
+T3              15
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          25
+Memory [11]           x
+T1              11
+T2              12
+T3              15
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          26
+Memory [11]           x
+T1              11
+T2              12
+T3              15
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          27
+Memory [11]           x
+T1              11
+T2              12
+T3              15
+T4               0
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          28
+Memory [11]           x
+T1              11
+T2              12
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          29
+Memory [11]           x
+T1              11
+T2              12
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          30
+Memory [11]           x
+T1              11
+T2              12
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          31
+Memory [11]           x
+T1              11
+T2              12
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          32
+Memory [11]           x
+T1              11
+T2              12
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          33
+Memory [11]          27
+T1              11
+T2              12
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          34
+Memory [11]          27
+T1              11
+T2              12
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          35
+Memory [11]          27
+T1              11
+T2              12
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          36
+Memory [11]          27
+T1              11
+T2              12
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          37
+Memory [11]          27
+T1              11
+T2              12
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          38
+Memory [11]          27
+T1              11
+T2              12
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          39
+Memory [11]          27
+T1              11
+T2              12
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          40
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          41
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          42
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          43
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          44
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          45
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          46
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          47
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          48
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          49
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          50
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          51
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          52
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          53
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          54
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          55
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          56
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          57
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          58
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          59
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          60
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          61
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          62
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          63
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          64
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          65
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          66
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          67
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          68
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          69
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          70
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          71
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          72
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          73
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          74
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          75
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          76
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          77
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          78
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          79
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          80
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          81
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          82
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          83
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          84
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          85
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          86
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          87
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          88
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          89
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          90
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          91
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          92
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          93
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          94
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          95
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          96
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          97
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          98
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num          99
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         100
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         101
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         102
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         103
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         104
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         105
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         106
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         107
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         108
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         109
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         110
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         111
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         112
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         113
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         114
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         115
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         116
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         117
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         118
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         119
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         120
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         121
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         122
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         123
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         124
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         125
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         126
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         127
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         128
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         129
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         130
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         131
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         132
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         133
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         134
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         135
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         136
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         137
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         138
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         139
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         140
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         141
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         142
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         143
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         144
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         145
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         146
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         147
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         148
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         149
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         150
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         151
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         152
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         153
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         154
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         155
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         156
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         157
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         158
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         159
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         160
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         161
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         162
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         163
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         164
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         165
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         166
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         167
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         168
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         169
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         170
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         171
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         172
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         173
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         174
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         175
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         176
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         177
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         178
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         179
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         180
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         181
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         182
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         183
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         184
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         185
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         186
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         187
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         188
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         189
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         190
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         191
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         192
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         193
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         194
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         195
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         196
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         197
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         198
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         199
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         200
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         201
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         202
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         203
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         204
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         205
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         206
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         207
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         208
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         209
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         210
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         211
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         212
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         213
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         214
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         215
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         216
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         217
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         218
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         219
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         220
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         221
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         222
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         223
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         224
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         225
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         226
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         227
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         228
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         229
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         230
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         231
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         232
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         233
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         234
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         235
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         236
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         237
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         238
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         239
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         240
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         241
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         242
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         243
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         244
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         245
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         246
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         247
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         248
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         249
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         250
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         251
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         252
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         253
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         254
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         255
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     
+     
+****** NEW ITERATION ******
+Iteration Num         256
+Memory [11]          27
+T1              11
+T2              27
+T3              15
+T4              27
+res is     1
+********* END *********
+     

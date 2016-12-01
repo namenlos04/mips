@@ -1,0 +1,8 @@
+../tb/mips_tb.v
+shell.v
+reg_file.v
+Instr_Dat.v
+pc.v
+control_unit.v
+alu.v
+add.v

@@ -1,0 +1,41 @@
+AR      AH      A       AIH    ALR    AL
+BALR   BAL    BCR    BC     BCTR   BCT    BXH    BXLE   BHR    BLR
+BER    BNER   BNHR   BNLR   BNOR   BOR    BZR    BPR    BMR    BNPR
+BNMR   BNZR   BR     BH     BL     BE     BNH    BNL    BNE    BO
+BP     BN     BNP    BNM    BZ     BNZ    BNO    B      BXH    BXLE
+BM     BNC    BCS    BAS
+CR     CH     C      CIN    CIH    CLR    CL     CMS
+CMSIH  CTW    CLI    CSM
+DR     D      DG
+HIO
+IC     ICIH
+LR     LH     L      LM     LPR    LNR    LTR    LCR    LA     LPSW
+LCTL   LB     LBIH
+MR     MH     M      MI     MVIH   MVI    MAJT   MVSS   MIH
+MPT
+NOP    NOPR   N      NR     NIH    NI
+OR     O      OIH    OI
+RDU
+SR     SH     S      STH    ST     STM    SRL    SLL    SRA    SLA
+SPT    STPT   SIO    STIO   SIGP   SIH    SLDA   SRDA
+SLR    STC    SL     SSK
+STAP   SVC    SIH    STB    SSM    SPTN
+TC     TM     TSS    TSS1   TCH    TIO
+XR     X      XIH    XI
+WSM    WRU    WRD
+CCW    CNOP
+DC     DS     DROP   DXD
+ENTRY  EQU
+FSPASE
+ICTL   ISEQ
+NOUGRX
+ORG
+POP    PRINT  PUNCH  PER
+SPACE  START
+TITLE
+USING  UGPRINT UGCHECK UGORG UGRG UGSTART UGRX UGUSING
+VBK    VIV    VV
+#A #AH #AL #S #SH #C #CH #M #MH #D #L #LH #LM #LA #ST #STH #N #O
+#SPT #STPT #LPSW #STM #X 
+EOF
+
